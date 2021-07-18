@@ -38,6 +38,5 @@ To test that the Bluetooth PS3 remote is working, verify that /dev/input/js0 exi
 (env) pi@raspberrypi:~ $ ls /dev/input/js0
 /dev/input/js0
 ```
-Reference: https://docs.donkeycar.com/index.html
+Ref: https://docs.donkeycar.com/index.html
 
-# RPi_donkeycar
